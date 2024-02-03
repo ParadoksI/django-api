@@ -1,0 +1,30 @@
+{
+	"author" : "fe9a34f65b8b44ea9b4a0683c77d9b4f",
+	"body" : "FIIIIIIIRE __ GET A FIIIIRE"
+}
+
+{
+ "author": "fe9a34f65b8b44ea9b4a0683c77d9b4f",
+ "body": "Hey! I like your post.",
+ "post": "8ae134506a9049fc8b18694d2a8eab9b"
+}
+{
+	"email" : "test@api.com",
+	"password" : "12345678"
+}
+
+"id": "fe9a34f65b8b44ea9b4a0683c77d9b4f"
+
+post: 
+"id": "8ae134506a9049fc8b18694d2a8eab9b"
+
+comment : 
+"id": "bcb89968a0274e36a4e483874abb4d54"
+
+"refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwNTc0Njc3NiwiaWF0IjoxNzA1NjYwMzc2LCJqdGkiOiJlZmY3ZDMxOTE1ZDQ0NTc2YTYwYWRjM2IwY2I1YjZhZCIsInVzZXJfaWQiOjF9.e5uCN6bboH6GHUCvby9ODct5L19g8zXhlcqGQVww0xA"
+
+GRANT ALL PRIVILEGES ON DATABASE coredb TO core;
+
+ALTER USER core CREATE DB;
+
+post/8ae134506a9049fc8b18694d2a8eab9b/comment/930938b760ad4f3f833ac10b51b4047f/
